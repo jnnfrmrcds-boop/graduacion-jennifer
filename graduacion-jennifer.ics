@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jennifer Mercedes//Graduacion 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:graduacion-jennifer-20261017@invitacion.example
+DTSTAMP:20261011T000000Z
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:Celebración de graduación de Jennifer Mercedes
+LOCATION:Restaurante Farah\, San Isidro\, Santo Domingo Este\, República Dominicana
+DESCRIPTION:Acompáñanos a brindar por este gran logro y el comienzo de una nueva aventura.\nCódigo de vestuario: semiformal - formal.
+END:VEVENT
+END:VCALENDAR
